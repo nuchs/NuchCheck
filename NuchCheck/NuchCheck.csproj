@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <RootNamespace>Eu.Nuchs.Check</RootNamespace>
+    <Version>0.1.0</Version>
+    <Authors>Nuchs</Authors>
+    <Company>Nucheled</Company>
+    <Description>Helper functions for validating methods arguments</Description>
+  </PropertyGroup>
+
+</Project>
